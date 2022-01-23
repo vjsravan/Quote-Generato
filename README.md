@@ -7,3 +7,4 @@ User is able to load a new quote on a button 'New Quote" click.
 User is able to tweet the quote if he liked it on a 'Twitter' button click.
 
 # Usage
+https://vjsravan.github.io/Quote-Generator/
